@@ -103,34 +103,32 @@
                 <dpadbutton index="4">
                     <slots>
                         <slot>
-                            <code>2</code>
-                            <mode>mousemovement</mode>
+                            <code>0x35</code>
+                            <mode>keyboard</mode>
                         </slot>
                     </slots>
                 </dpadbutton>
                 <dpadbutton index="8">
-                    <toggle>true</toggle>
                     <slots>
                         <slot>
-                            <code>3</code>
-                            <mode>mousemovement</mode>
+                            <code>0x33</code>
+                            <mode>keyboard</mode>
                         </slot>
                     </slots>
                 </dpadbutton>
                 <dpadbutton index="1">
                     <slots>
                         <slot>
-                            <code>1</code>
-                            <mode>mousemovement</mode>
+                            <code>0x31</code>
+                            <mode>keyboard</mode>
                         </slot>
                     </slots>
                 </dpadbutton>
                 <dpadbutton index="2">
-                    <toggle>true</toggle>
                     <slots>
                         <slot>
-                            <code>4</code>
-                            <mode>mousemovement</mode>
+                            <code>0x34</code>
+                            <mode>keyboard</mode>
                         </slot>
                     </slots>
                 </dpadbutton>
@@ -192,14 +190,6 @@
             <button index="4">
                 <slots>
                     <slot>
-                        <code>0x31</code>
-                        <mode>keyboard</mode>
-                    </slot>
-                    <slot>
-                        <code>1</code>
-                        <mode>cycle</mode>
-                    </slot>
-                    <slot>
                         <code>0x32</code>
                         <mode>keyboard</mode>
                     </slot>
@@ -208,23 +198,7 @@
                         <mode>cycle</mode>
                     </slot>
                     <slot>
-                        <code>0x33</code>
-                        <mode>keyboard</mode>
-                    </slot>
-                    <slot>
-                        <code>1</code>
-                        <mode>cycle</mode>
-                    </slot>
-                    <slot>
-                        <code>0x34</code>
-                        <mode>keyboard</mode>
-                    </slot>
-                    <slot>
-                        <code>1</code>
-                        <mode>cycle</mode>
-                    </slot>
-                    <slot>
-                        <code>0x35</code>
+                        <code>0x31</code>
                         <mode>keyboard</mode>
                     </slot>
                 </slots>

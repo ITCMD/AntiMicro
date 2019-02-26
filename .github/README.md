@@ -28,11 +28,16 @@ Now that you've installed it you can run antimicro from your launcher, or in the
 
 **Now you can download or create some antimicro scripts to use!**
 We have a collection that we designed for a classic rock candy usb controller.
+https://github.com/ITCMD/AntiMicro/tree/master/MicroScripts
 
-# Aditional Info
+# Aditional AntiMicro Info
 
 **To Uninstall** run `sudo apt remove antimicro`. 
 
 **Note:** You can find versions for other systems at https://pkgs.org/download/antimicro. We cannot verify the legitimacy of this website or it's downloads, as we do not have any alternative linux systems. If something does not work or includes malware let us know and we will take down the link.
 
 *Disclaimer! AntiMicro is not designed or upkept by IT Command. It was abandoned in 2016, however the last versions run stable enough. We have copies of the linux version in case the main repository goes down. Original archive: https://github.com/AntiMicro/antimicro and https://github.com/AntiMicro/antimicro/releases*
+
+
+# Notes On Downloadable Scripts.
+For scripts like the one for ravenfield, the look stick is the right stick. If you want to change the sensetivity, open antimicro, click on the `R Stick` Button with a gear, click `Mouse Settings` and you can alter the Horizontal and Vertical Speed in `Mouse Speed Settings`.
